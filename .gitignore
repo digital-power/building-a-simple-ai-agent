@@ -11,3 +11,4 @@ config/settings.yaml
 data/result*.yaml
 # prototyping files
 */test__*
+conversation_history.json

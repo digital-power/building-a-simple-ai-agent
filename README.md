@@ -1,6 +1,7 @@
-# AI Agent OpenAI
+# A basic example on how to build an AI Agent using OpenAI enpoints in Azure
 
 This tutorial provides a basic example of how an AI agent can be build using Azure OpenAI endpoints.
+For the full article refer to the digital power website: [Building an AI Agent with Azure OpenAI](https://digitalpower.com/building-an-ai-agent-with-azure-openai/).
 
 ---
 

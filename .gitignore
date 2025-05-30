@@ -1,0 +1,13 @@
+# Python
+**/__pycache__/
+# MacOS
+.DS_Store
+# Virtual environments
+venv/
+# Private folders
+private/
+config/settings.yaml
+# Results
+data/result*.yaml
+# prototyping files
+*/test__*
